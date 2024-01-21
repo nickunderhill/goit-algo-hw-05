@@ -32,7 +32,7 @@ print(binary_search(arr, x))
 x2 = 1.2
 print(binary_search(arr, x2))
 x3 = 5.9
-print(binary_search(arr, x2))
+print(binary_search(arr, x3))
 x4 = 6.0
 print(binary_search(arr, x4))
 x5 = 1.0
